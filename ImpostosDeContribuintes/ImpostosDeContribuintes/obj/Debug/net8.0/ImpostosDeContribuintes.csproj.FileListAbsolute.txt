@@ -1,0 +1,14 @@
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\bin\Debug\net8.0\ImpostosDeContribuintes.exe
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\bin\Debug\net8.0\ImpostosDeContribuintes.deps.json
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\bin\Debug\net8.0\ImpostosDeContribuintes.runtimeconfig.json
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\bin\Debug\net8.0\ImpostosDeContribuintes.dll
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\bin\Debug\net8.0\ImpostosDeContribuintes.pdb
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\obj\Debug\net8.0\ImpostosDeContribuintes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\obj\Debug\net8.0\ImpostosDeContribuintes.AssemblyInfoInputs.cache
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\obj\Debug\net8.0\ImpostosDeContribuintes.AssemblyInfo.cs
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\obj\Debug\net8.0\ImpostosDeContribuintes.csproj.CoreCompileInputs.cache
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\obj\Debug\net8.0\ImpostosDeContribuintes.dll
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\obj\Debug\net8.0\refint\ImpostosDeContribuintes.dll
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\obj\Debug\net8.0\ImpostosDeContribuintes.pdb
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\obj\Debug\net8.0\ImpostosDeContribuintes.genruntimeconfig.cache
+C:\temp\projetos\C# - Curso\ImpostosDeContribuintes\ImpostosDeContribuintes\ImpostosDeContribuintes\obj\Debug\net8.0\ref\ImpostosDeContribuintes.dll
